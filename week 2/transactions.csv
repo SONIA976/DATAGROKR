@@ -1,0 +1,11 @@
+transaction_id,customer,account_type,transaction_type,amount
+1,Sonia Joshi,Savings,Deposit,5000
+2,Rahul,Current,Deposit,8000
+3,Sonia Joshi,Savings,Withdrawal,1500
+4,Ananya,Savings,Deposit,7000
+5,Rohan,Current,Withdrawal,2000
+6,Priya,Savings,Deposit,6000
+7,Rahul,Current,Withdrawal,2500
+8,Ananya,Savings,Withdrawal,1000
+9,Sonia Joshi,Savings,Deposit,3000
+10,Priya,Savings,Withdrawal,1200

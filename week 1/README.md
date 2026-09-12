@@ -3,6 +3,7 @@
 ## Student Details
 
 - Name: Sonia
+-USN: 1NT23CS238
 - Program: DataGrokr Pre-Learning Program
 - Week: 1
 - Project: CLI Student Grade Calculator
